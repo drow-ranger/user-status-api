@@ -1,0 +1,4 @@
+TITLE=User Status API
+URL=localhost:
+PORT=3000
+SECRET=verysecret

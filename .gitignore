@@ -1,0 +1,5 @@
+*.env
+
+app/config/configDatabase.json
+
+node_modules/*
